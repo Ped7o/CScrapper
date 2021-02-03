@@ -1,0 +1,2 @@
+1) Create exception for when element is not present on the page.
+2) Create exception for when the webpage did not load, as of happended 03/02/21.
